@@ -1,1 +1,3 @@
-# NvrmineArchitecture
+# Nvrmine Architecture
+
+![Architecture](Architecture.svg)
