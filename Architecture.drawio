@@ -10,10 +10,14 @@
                 <mxCell id="3" value="Helium Device" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.alexa_enabled_device;fillColor=#5294CF;gradientColor=none;" parent="1" vertex="1">
                     <mxGeometry x="30" y="-50" width="40" height="44" as="geometry"/>
                 </mxCell>
-                <mxCell id="27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
+                <mxCell id="27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1" target="5">
                     <mxGeometry relative="1" as="geometry">
-                        <mxPoint x="380" y="84.5" as="targetPoint"/>
-                        <mxPoint x="276.46000000000004" y="84.5" as="sourcePoint"/>
+                        <mxPoint x="380" y="101.5" as="targetPoint"/>
+                        <mxPoint x="276.46000000000004" y="101.5" as="sourcePoint"/>
+                        <Array as="points">
+                            <mxPoint x="360" y="102"/>
+                            <mxPoint x="360" y="102"/>
+                        </Array>
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="4" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.aws_iot;fillColor=#5294CF;gradientColor=none;" parent="1" vertex="1">
